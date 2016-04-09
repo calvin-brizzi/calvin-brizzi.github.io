@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Calvin Brizzi
+tagline:          'Just this guy, you know?'
+description:      'Just this guy, you know?'
+url:              http://calvin-brizzi.github.io
+baseurl:          /
+
+author:
+  name:           'Calvin Brizzi'
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/calvin-brizzi
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
