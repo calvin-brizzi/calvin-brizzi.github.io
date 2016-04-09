@@ -2,4 +2,5 @@
 layout: page
 title: About me
 ---
-{% include about.md%}
+{% capture about %}{% include about.md %}{% endcapture %}
+{{ about | markdownify }}
