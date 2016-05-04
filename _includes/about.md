@@ -1,12 +1,14 @@
 #### tl;dr
 
-[University of Cape Town](http://www.uct.ac.za/) Computer Science and Computer Games Development graduate, doing my honours now.
+University of Cape Town Computer Science and Computer Games Development graduate, doing my honours now.
 
 Completed internships at Facebook (twice), Amazon and BrandsEye.
 
 Used to be chairperson of the [UCT Dev Soc](https://www.facebook.com/groups/uctdev/), a tutor for the Computer Science Department and did some freelance work for the [Percy Fitzpatrick Institute](http://kysabymf.herokuapp.com/).
 
 #### projects
+
+I'm currently working on an honours project in collaboration with the Astronomy department at UCT. I have set up a site [here](http://calvinbrizzi.com/visastro/) which I will update as the project takes shape.
 
 My [github profile](https://github.com/calvin-brizzi/) has random examples of code, some highlights include:
 
