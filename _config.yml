@@ -5,8 +5,8 @@ permalink:        pretty
 title:            Calvin Brizzi
 tagline:          'Just this guy, you know?'
 description:      'Just this guy, you know?'
-url:              http://calvin-brizzi.github.io
-baseurl:          /
+url:              http://calvinbrizzi.com
+baseurl:          
 
 author:
   name:           'Calvin Brizzi'
@@ -26,3 +26,4 @@ project:
 gems:
   - jekyll-paginate
   - jekyll-gist
+  - jekyll-sitemap
