@@ -6,7 +6,7 @@ title:            Calvin Brizzi
 tagline:          'Just this guy, you know?'
 description:      'Just this guy, you know?'
 url:              http://calvinbrizzi.com
-baseurl:          
+baseurl:          /
 
 author:
   name:           'Calvin Brizzi'
