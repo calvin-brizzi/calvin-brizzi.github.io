@@ -17,7 +17,7 @@ My [github profile](https://github.com/calvin-brizzi/) has random examples of co
 
 #### links
 
-[cv]({{ base.url }}/assets/CalvinBrizziCV%28September2016&29.pdf)  
+[cv]({{ base.url }}/assets/CalvinBrizziCV%28September2016%29.pdf)  
 [email](mailto:calvin.brizzi@gmail.com)  
 [linkedin](https://www.linkedin.com/in/calvinbrizzi)  
 [facebook](https://www.facebook.com/calvin.brizzi)  
