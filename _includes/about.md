@@ -10,7 +10,7 @@ Used to be chairperson of the [UCT Dev Soc](https://www.facebook.com/groups/uctd
 
 #### projects
 
-Details of my honours project (in collaboration with the Astronomy department at UCT) can be found [here](http://calvinbrizzi.com/visastro/).
+Details of my Honours project (in collaboration with the Astronomy department at UCT) can be found [here](http://calvinbrizzi.com/visastro/).
 
 My [github profile](https://github.com/calvin-brizzi/) has random examples of code, some highlights include:
 
