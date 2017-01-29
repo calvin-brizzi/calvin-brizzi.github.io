@@ -30,7 +30,7 @@ Haven't tried this myself, but it's a Geocities clone. Site size limit is 20 Mb 
 
 ## I don't know how to make a good-looking website!
 
-Yeah, neither do I, so steal! I'd advise using Jekyll to make the website (see the tutorial like under GitHub pages) and googling "Jekyll themes". There are many and lots of good-looking ones, please don't the one I stole.
+Yeah, neither do I, so steal! I'd advise using Jekyll to make the website (see the tutorial like under GitHub pages) and googling "Jekyll themes".
 
 ### Why didn't you suggest x? It's better!
 
