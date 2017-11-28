@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/calvinbrizzi
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://calvinbrizzi.com
+  * I am calvinbrizzi (https://keybase.io/calvinbrizzi) on keybase.
+  * I have a public key with fingerprint E9B0 4FBA 3DEE 8F02 EA9E  5314 63EF A943 339E D68C
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120cb80c09f03efb76f06208bf3ea399a36df2307e65ee9a261d8b7ab57d898d15f0a",
+      "fingerprint": "e9b04fba3dee8f02ea9e531463efa943339ed68c",
+      "host": "keybase.io",
+      "key_id": "63efa943339ed68c",
+      "kid": "0101b909c70c790a4ab0af1898affbae521b23a93ca88b926b542d533c48fa9eb6910a",
+      "uid": "44a0a9d2c71b2553ecef4b624376c819",
+      "username": "calvinbrizzi"
+    },
+    "service": {
+      "hostname": "calvinbrizzi.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1511861062,
+  "expire_in": 157680000,
+  "prev": "485b1a042873869c214550c81b0158916f6d5768988b00e81d3ac1a424f85583",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMNrAnicbVJ7TJZVHOYiDhHFmAoqaL6irfFB7/2CDCxQCGxGtFIuwTnve154A747
+INBH0MQhM4yGAxuYXSzwUgTJJWcBI7qwClR0k4sQZMP8+hbtYxIuOy/L/zz/nJ3z
+e57n9zy/cwbWeHv4ecqu1jjm9I3jnkN97xd6pIWG7ysjoEkpIaLKiDy0vKF8Bdns
+WXmaQkQRJEWTMhRJmZRUkkEqFHiV5GlShCqDACNJgOEVlWZIAfEcQhKgeUoRoQAg
+JyiiJCoUp5KAMBCqZsxBVrNVM9qxLJIgyaoQMApCokrSCEiIYyiWxy2AxDIMIyGF
+F2VMzDXZdAY2B4ENRWomfIcPWcv2HoN/5JukoERKskDKgkQCFkASqBR2BFTcF3E0
+BWkGSIwMRBFKNA85llY4hpFZESsiyEvUsu/CZTmWBSSQFFoWMI3jGCQjlYU8zTIC
+L4uUpANtyGoEBQijZZBfpBmhVSst1QiHgcCVIk1G+nD1NI9BRcqmAqxhtprsJtmU
+j6u5drs5SifbS8w6uhjBrP91sqBmVPA4MaEIWW2ayUhEURgp2zVdmOIoSuQp/EoG
+Ah02a1aUpekITuBFEi+9DSrSQ4kcpADJ0qLAiLwk0xTLcSSOA0mKEyWKV3lFJ0l4
+QiSJREphgEwBlmZVkeNEhtCTWYwmrM1gnyAHa9q0HCOwF1oR4ejvy1jh4ennsdLH
+S/9nHn6r1j36fcqdgH+fXOtYd8rYbN3jFVDMD/8dM7NwsS67YLPFHK1xoR++HJ38
+c3HjxDeZqZzHT9cGnXmdcWFVa9dPBc943nM0vp5vvX/mgLJ60AVGe+JDTtT7HCo/
+m5jZ8Ma2iJDw9p07ppz7uo5UNia5h/d0Jr+SeXKo41Lz3UMNjvH44LLAgsnrIxX2
+X8e4oyv9Au+a6m4/7FUO/xncTtyzHfMPHYtbceW51qSQmHMPKhLNTrN/zIvz+wOb
+3JM1c0m5TwQtba5X3O5fWvJ/q3sp+6ohZCb929iRSWfLlraqzlsFe/uHrp8JGq+Z
+/XFkNtkZO+z4J3rhjwPFfen7ncd3uJrIjq0D9YNNF579fPfJLY0JNzLChy6H5YZ1
+uHwuo+mb51y99gGCGvyr7bMXbL1vfWoQNoz/ULth05FdXqPwnW2hU347w7fPfalu
+pD5qmcuomPrgmZSDE6ZbS9PZJfGpvuXmE+99d/BhLXrt666n2srTrvjW9lh2pS16
+p57v96lYirjgOrVV5UF7N5ei2E93p9O3pzIXpdLmpytfjegSZi9uql91dKF0fro6
+25Ky8ZPJt4cTpLGJRfu7hq8y3/RFng+Su2freqrrjs0MJqxvaR2Fq5+PrUoM6qtM
+ct+/autpu/T79qXAeStv2R39fUOQf4XtrOF8dUbNcKsFGrU1M0NRSV94h9w8ykfm
+3Wl0X+sIiPv4P/73x1s=
+=aKFz
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/calvinbrizzi
+
+==================================================================
